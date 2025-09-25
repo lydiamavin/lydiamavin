@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi — I'm LYDIA AVIN 👋
+**AI Engineer | RAG | LLMOps | Backend (Flask · MongoDB · AWS)**
 
-<!--
-**lydiamavin/lydiamavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end GenAI systems: ingestion → retrieval → LLM orchestration → deployment → evaluation.
 
-Here are some ideas to get you started:
+🔭 Currently building: **RAG Chatbot** · **LLM agent + Microservice**  
+🌱 Learning: LoRA fine-tuning & LLM evaluation  
+📫 Reach me: [LinkedIn](www.linkedin.com/in/lydiaavin) · lydiaavin@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Pinned projects
+- **genai-sandbox** — HuggingFace experiments & prompt engineering notebooks  
+- **rag-chatbot** — RAG pipeline + Streamlit UI (in progress)  
+- **genai-api** — FastAPI microservice for summarization & Q/A
+
+---
+
+### Skills & Tools
+Python · Transformers · LangChain · FAISS · Pinecone · Flask/FastAPI · Docker · AWS · GitHub Actions
+
