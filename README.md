@@ -1,4 +1,4 @@
-# Hi — I'm LYDIA AVIN 👋
+# Hi ! I'm LYDIA AVIN 👋
 **AI Engineer | RAG | LLMOps | Backend (Flask · MongoDB · AWS)**
 
 I build end-to-end GenAI systems: ingestion → retrieval → LLM orchestration → deployment → evaluation.
