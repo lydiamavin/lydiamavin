@@ -12,7 +12,7 @@ I build end-to-end GenAI systems: ingestion → retrieval → LLM orchestration 
 ## Pinned projects
 - **genai-sandbox** — HuggingFace experiments & prompt engineering notebooks  
 - **rag-chatbot** — RAG pipeline + Streamlit UI 
-- **genai-api** — FastAPI microservice for summarization & Q/A
+- **cricket-summary** — AI-powered poster generator for cricket matches.
 
 ---
 
