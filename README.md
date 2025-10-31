@@ -19,3 +19,4 @@ I build end-to-end GenAI systems: ingestion → retrieval → LLM orchestration 
 ### Skills & Tools
 Python · Transformers · LangChain · FAISS · Pinecone · Flask/FastAPI · Docker · AWS · GitHub Actions
 
+[![An image of @lydiamavin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lydiamavin)](https://holopin.io/@lydiamavin)
