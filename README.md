@@ -3,7 +3,7 @@
 
 I build end-to-end GenAI systems: ingestion → retrieval → LLM orchestration → deployment → evaluation.
 
-🔭 Currently building: **RAG Chatbot** · **LLM agent + Microservice**  
+🔭 Currently building: **LLM agent**  
 🌱 Learning: LoRA fine-tuning & LLM evaluation  
 📫 Reach me: [LinkedIn](www.linkedin.com/in/lydiaavin) · lydiaavin@gmail.com
 
